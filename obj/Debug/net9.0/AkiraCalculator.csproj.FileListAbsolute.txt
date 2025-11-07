@@ -1,0 +1,14 @@
+C:\Users\cmcco\projects\AkiraCalculator\bin\Debug\net9.0\AkiraCalculator.exe
+C:\Users\cmcco\projects\AkiraCalculator\bin\Debug\net9.0\AkiraCalculator.deps.json
+C:\Users\cmcco\projects\AkiraCalculator\bin\Debug\net9.0\AkiraCalculator.runtimeconfig.json
+C:\Users\cmcco\projects\AkiraCalculator\bin\Debug\net9.0\AkiraCalculator.dll
+C:\Users\cmcco\projects\AkiraCalculator\bin\Debug\net9.0\AkiraCalculator.pdb
+C:\Users\cmcco\projects\AkiraCalculator\obj\Debug\net9.0\AkiraCalculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cmcco\projects\AkiraCalculator\obj\Debug\net9.0\AkiraCalculator.AssemblyInfoInputs.cache
+C:\Users\cmcco\projects\AkiraCalculator\obj\Debug\net9.0\AkiraCalculator.AssemblyInfo.cs
+C:\Users\cmcco\projects\AkiraCalculator\obj\Debug\net9.0\AkiraCalculator.csproj.CoreCompileInputs.cache
+C:\Users\cmcco\projects\AkiraCalculator\obj\Debug\net9.0\AkiraCalculator.dll
+C:\Users\cmcco\projects\AkiraCalculator\obj\Debug\net9.0\refint\AkiraCalculator.dll
+C:\Users\cmcco\projects\AkiraCalculator\obj\Debug\net9.0\AkiraCalculator.pdb
+C:\Users\cmcco\projects\AkiraCalculator\obj\Debug\net9.0\AkiraCalculator.genruntimeconfig.cache
+C:\Users\cmcco\projects\AkiraCalculator\obj\Debug\net9.0\ref\AkiraCalculator.dll
